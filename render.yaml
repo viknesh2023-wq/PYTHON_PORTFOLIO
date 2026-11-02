@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: python-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
